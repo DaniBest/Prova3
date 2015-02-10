@@ -7,7 +7,7 @@ import utfpr.ct.dainf.if62c.avaliacao.Lancamento;
 /**
  * IF62C Fundamentos de Programação 2
  * Avaliação parcial.
- * @author Wilson Horstmeyer Bogado <wilson@utfpr.edu.br>
+ * @author 
  */
 public class Avaliacao3 {
  
