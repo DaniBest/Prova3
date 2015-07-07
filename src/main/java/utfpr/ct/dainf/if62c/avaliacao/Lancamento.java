@@ -7,7 +7,7 @@ import java.util.Objects;
 /**
  * IF62C Fundamentos de Programação 2
  * Avaliação parcial.
- * @author 
+ * @author Daniel
  */
 public class Lancamento {
     private Integer conta;
