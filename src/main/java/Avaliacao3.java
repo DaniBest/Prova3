@@ -25,7 +25,7 @@ public class Avaliacao3 {
         caminho = scanner.next();
         
         ProcessaLancamentos processor = new ProcessaLancamentos(caminho);
-        lista1 = processor.getLancamentos();
+//        lista1 = processor.getLancamentos();
         
     }
 
